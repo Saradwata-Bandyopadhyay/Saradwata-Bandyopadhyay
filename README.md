@@ -8,8 +8,8 @@ Here are some ideas to get you started:
                    -> [IEEE Explore](https://ieeexplore.ieee.org/document/9791747)<br>
                    -> [Springer](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_40)<br>
                    -> [American Journal of Electronics & Communication](https://www.ingentaconnect.com/content/smart/ajec/2022/00000002/00000003/art00005)<br>
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Web & App Development projects
-- 💬 Ask me about Java, PHP, C, WordPress, SEO/SEM
+- 💬 Ask me about Java, PHP, C, Laravel, Spring Boot, Flutter, WordPress, SEO/SEM
 - 📫 How to reach me: saradwata.uemk.cse.2023@gmail.com
 - 😄 Pronouns: He/Him
